@@ -1,0 +1,6 @@
+# Ignore all files first
+*
+
+# Then un-ignore ASCII-named emblems
+!sch-[0-9]*.png
+!.gitignore
