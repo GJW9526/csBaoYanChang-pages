@@ -109,7 +109,7 @@ INSERT INTO schools (id, name, province, city, summary, official_url, logo_url) 
   ('shzu', '石河子大学', '新疆', '石河子', '石河子大学，位于石河子，211院校。', '', '/logos/shzu.png'),
   ('tibet-u', '西藏大学', '西藏', '拉萨', '西藏大学，位于拉萨，211院校。', '', '/logos/tibet-u.png'),
   ('qhu', '青海大学', '青海', '西宁', '青海大学，位于西宁，211院校。', '', '/logos/qhu.png'),
-  ('ucas', '中国科学院大学', '北京', '北京', '中国科学院大学，位于北京，双一流院校。', '', '/logos/ucas.png'),
+  ('cas', '中国科学院', '北京', '北京', '中国科学院，位于北京，双一流院校。', '', '/logos/ucas.png'),
   ('sustech', '南方科技大学', '广东', '深圳', '南方科技大学，位于深圳，双一流院校。', '', '/logos/sustech.png'),
   ('shanghaitech', '上海科技大学', '上海', '上海', '上海科技大学，位于上海，双一流院校。', '', '/logos/shanghaitech.png'),
   ('nkuedu', '南京医科大学', '江苏', '南京', '南京医科大学，位于南京，双一流院校。', '', '/logos/nkuedu.png'),
