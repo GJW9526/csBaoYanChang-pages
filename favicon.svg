@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="byc-bg" x1="100" y1="0" x2="100" y2="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#16335E"/>
+    </linearGradient>
+    <linearGradient id="byc-gold" x1="44" y1="30" x2="156" y2="70" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FBD98A"/>
+      <stop offset="1" stop-color="#E0A32E"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="200" rx="45" fill="url(#byc-bg)"/>
+  <path d="M22 66 L100 74 L100 148 L22 142 Z" fill="#FFFFFF" fill-opacity="0.95"/>
+  <path d="M178 66 L100 74 L100 148 L178 142 Z" fill="#FFFFFF" fill-opacity="0.78"/>
+  <path d="M98 70 L102 70 L102 150 L98 150 Z" fill="url(#byc-gold)"/>
+  <path d="M100 30 L156 50 L100 70 L44 50 Z" fill="url(#byc-gold)"/>
+  <path d="M155 50 L158 50 L158 86 L155 86 Z" fill="#FBD98A"/>
+  <circle cx="156" cy="90" r="5" fill="#FBD98A"/>
+</svg>
